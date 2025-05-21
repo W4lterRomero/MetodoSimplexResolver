@@ -1,0 +1,37 @@
+{
+  "name": "methodsimplexresolver",
+  "version": "1.0.0",
+  "description": "program of lineal programation",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/W4lterRomero/MetodoSimplexResolver.git"
+  },
+  "keywords": [
+    "Simplex",
+    "html",
+    "css",
+    "math",
+    "plotly"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/W4lterRomero/MetodoSimplexResolver/issues"
+  },
+  "homepage": "https://github.com/W4lterRomero/MetodoSimplexResolver#readme",
+  "dependencies": {
+    "docx": "^9.5.0",
+    "exceljs": "^4.4.0",
+    "jspdf": "^3.0.1",
+    "jspdf-autotable": "^5.0.2",
+    "mathjs": "^14.4.0",
+    "plotly.js": "^3.0.1"
+  }
+}
