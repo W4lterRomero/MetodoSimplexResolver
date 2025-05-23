@@ -27,6 +27,8 @@
   },
   "homepage": "https://github.com/W4lterRomero/MetodoSimplexResolver#readme",
   "dependencies": {
+    "bootstrap": "^5.3.6",
+    "bootstrap-icons": "^1.13.1",
     "docx": "^9.5.0",
     "exceljs": "^4.4.0",
     "jspdf": "^3.0.1",
